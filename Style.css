@@ -1,0 +1,36 @@
+body {
+    background: radial-gradient(ellipse at center, #0a2e38 0%, #050608 35%);
+    background-image: url(https://github.com/emredemirel39/JavaScript_Projects/blob/master/planets/images/galaxy.gif?raw=true);
+    background-size: cover;
+}
+
+#clock {
+    cursor: default;
+    user-select: none;
+    font-family: 'Rockwell', monospace;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #daf6ff;
+    text-shadow: 0 0 20px rgba(10, 175, 230, 1),
+        0 0 20px rgba(10, 175, 230, 0);
+}
+
+.date {
+    letter-spacing: 0.1em;
+    font-size: 38px;
+}
+
+.time {
+    letter-spacing: 0.05em;
+    font-size: 90px;
+    padding: 5px 0;
+}
+
+.text {
+    letter-spacing: 0.1em;
+    font-size: 17px;
+    padding: 20px 0 0;
+}
