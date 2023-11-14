@@ -6,4 +6,4 @@ Digitale Uhr mit JavaScript für alle die keine Digitale Uhr haben mit bisschen 
 
 Oben dem könnt ihr Wallpaper link kopieren und in den CSS hinzufügen. 
 
-![hand](https://github.com/keco216/DigitalClock_V2/assets/122257613/29d048da-7dd3-4734-b1d0-ff04082e7f4b)
+![hand(1)](https://github.com/keco216/DigitalClock_V2/assets/122257613/dedc0301-b35a-4d59-8f2f-16e55da39b2d)
